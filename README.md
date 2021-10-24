@@ -1,3 +1,4 @@
 # url-shortener
 
-Before running the project intall [sqlite3](https://www.sqlite.org/index.html)
+1. Intall [sqlite3](https://www.sqlite.org/index.html)
+2. Run [urlshortener.py](urlshortener.py)
